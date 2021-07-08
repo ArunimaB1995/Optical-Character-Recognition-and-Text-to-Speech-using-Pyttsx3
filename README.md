@@ -23,9 +23,10 @@ Text-To-Speech/images/
 You can add more files of .PNG, .TIFF, .JPG extension, for the tesseract to work on
 
 ## Tesseract.exe
-Download 'tesseract-ocr-setup-3.02.02' inside the Text-To-Speech folder and perform installation or you can download the setup file from: 
+Download 'tesseract-ocr-setup-3.02.02' and perform installation or you can download the setup file from: 
 https://osdn.net/projects/sfnet_tesseract-ocr-alt/downloads/tesseract-ocr-setup-3.02.02.exe/
-Add the installed file location in the Text-To-Speech-demo.ipynb file as:
+
+Add the file location after setup and installation in the Text-To-Speech-demo.ipynb file as:
 ```
 pytesseract.pytesseract.tesseract_cmd = 'path/to/tesseract.exe'
 ```
