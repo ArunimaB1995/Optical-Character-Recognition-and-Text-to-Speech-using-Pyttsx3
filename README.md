@@ -15,9 +15,11 @@ Open new IPYNB file inside the Text-To-Speech folder; type the following code:
 pip install -r requirements.txt
 ```
 
-# Images
+## Image folder
 ```
 Text-To-Speech/images/
 ```
 
 You can add more files of .PNG, .TIFF, .JPG extension, for the tesseract to work on
+
+## Pytesseract
