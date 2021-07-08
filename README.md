@@ -15,7 +15,7 @@ Open new IPYNB file inside the Text-To-Speech folder; type the following code:
 pip install -r requirements.txt
 ```
 
-##Images
+# Images
 ```
 Text-To-Speech/images/
 ```
