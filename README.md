@@ -44,7 +44,7 @@ Add the file location after setup and installation in the Text-To-Speech-demo.ip
 ```
 pytesseract.pytesseract.tesseract_cmd = 'path/to/tesseract.exe'
 ```
-The pyttsx3 module supports two voices first is female and the second is male which is provided by “sapi5” for windows. It supports three TTS engines : sapi5 – SAPI5 on Windows. You can view the in-built voice and their ids using these lines of code and change accordingly to your preferances:
+The pyttsx3 module supports two voices first is female and the second is male which is provided by “sapi5” for windows. It supports three TTS engines : sapi5 – SAPI5 on Windows. You can view the in-built voice and their ids using these lines of code and change accordingly to your preferences:
 https://www.geeksforgeeks.org/text-to-speech-changing-voice-in-python/
 or follow this blog:
 https://puneet166.medium.com/how-to-added-more-speakers-and-voices-in-pyttsx3-offline-text-to-speech-812c83d14c13
