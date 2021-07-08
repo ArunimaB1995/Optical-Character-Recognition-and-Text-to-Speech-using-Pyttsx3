@@ -54,6 +54,6 @@ for voice in voices:
     engine.setProperty('voice', voices[0].id) #'voices[1].id' will play female voice
 ```
 'Voices[2].id' will play the voice added into:
-    Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech_OneCore\Voices\Tokens\   
+    Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\   
     after following the instructions in the medium-blog mentioned above.
 
